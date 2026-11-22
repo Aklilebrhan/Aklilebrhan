@@ -41,8 +41,24 @@ I build scalable backend systems, containerized infrastructure, and AI-integrate
 
 ### Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,react,nextjs,redux,nodejs,express,postgres,mongodb,prisma,docker,git,github,linux" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp" alt="Languages" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" alt="Backend and Databases" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux" alt="Frontend" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="DevOps and Tools" />
 </p>
 
 ---
